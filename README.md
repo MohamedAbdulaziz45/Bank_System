@@ -1,4 +1,3 @@
-[![bank-management-system · GitHub Topics ...](https://images.openai.com/thumbnails/a48e1826f022fc6117bc0e472030c806.jpeg)](https://github.com/topics/bank-management-system)
 
 The **Bank Management System** is a comprehensive desktop application aimed at automating and managing banking operations. Built using **C++**, the system provides a user-friendly interface for various banking functionalities.
 
